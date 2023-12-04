@@ -19,7 +19,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^26.2.2",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.2"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
